@@ -1,5 +1,6 @@
-Credit Portfolio Risk Analysis (SQL)
-Project Overview
+##Credit Portfolio Risk Analysis (SQL)
+
+#Project Overview
 
 This project analyzes a loan portfolio risk dataset using SQL to evaluate credit risk exposure, default trends, and expected losses across different sectors.
 
@@ -8,7 +9,7 @@ Financial institutions manage large portfolios of loans and leases. Understandin
 In this analysis, SQL was used to explore portfolio exposure, identify high-risk sectors, and estimate potential losses based on Probability of Default (PD), Loss Given Default (LGD), and Exposure at Default (EAD).
 
 
-Dataset Description
+#Dataset Description
 
 The dataset contains loan-level information including borrower credit quality, loan characteristics, and repayment status.
 
@@ -36,7 +37,7 @@ collection_status	Recovery stage
 recovery_amount	Amount recovered after default
 
 
-Project Objectives
+##Project Objectives
 
 The analysis focuses on answering key credit risk management questions:
 
