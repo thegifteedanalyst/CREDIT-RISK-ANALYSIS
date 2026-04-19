@@ -53,4 +53,4 @@ The analysis focuses on answering key credit risk management questions:
 
 
 ## View Vsualization
-https://github.com/thegifteedanalyst/CREDIT-RISK-ANALYSIS/raw/main/file:///C:/Users/Dell/Downloads/Credit_Risk_Analysis-1.pdf/raw
+https://github.com/thegifteedanalyst/CREDIT-RISK-ANALYSIS/raw/main/file:///C:/Users/Dell/Downloads/Credit_Risk_Analysis-1.pdf
