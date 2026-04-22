@@ -1,4 +1,3 @@
-a## Credit Portfolio Risk Analysis (SQL)
 
 # Project Overview
 
